@@ -1,6 +1,7 @@
 /* h1 {text-align: center;}  */
-body {background-color: 255, 210, 189;}
+body {background-color: rgb(255, 210, 189);}
 h1 {color: red;
-   text-align: center;}
-p {color: 128, 0, 6;}
+   text-align: center;
+   font-family:Optima, sans-serif}
+p {color: rgb(128, 0, 6);}
 
