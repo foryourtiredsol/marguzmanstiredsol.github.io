@@ -3,9 +3,13 @@ html {font-size: 62.5%;}
 body {background-color: rgb(255, 210, 189);
     font-family:Optima, sans-serif;
      font-size: 18px;font-size: 2rem;}
+@font-face {
+    font-family: 'Spacefont';
+    src: url('SeariderFalcon-1GWwv.ttf');
+}
 h1 {color: rgb(255, 246, 229);
    text-align: right;
-   font-family:Optima, sans-serif;
+   font-family:'Spacefont', sans-serif;
     font-size: 40px;font-size: 3em;
     text-shadow:
     1px 1px 2px black,
