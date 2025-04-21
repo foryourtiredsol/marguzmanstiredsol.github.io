@@ -5,18 +5,18 @@ body {background-color: rgb(255, 210, 189);
 h1 {color: rgb(128, 0, 6);
    text-align: center;
    font-family:Optima, sans-serif;
-    font-size: 30px;font-size: 3em;
-   margin: 20px;
+    font-size: 30px;font-size: 3rem;
+   margin: 1rem;
    padding: 20px;}
 h2 {color: rgb(59, 0, 0);
     text-align: center;
     font-family:Optima, sans-serif;
-    font-size: 24px;font-size: 3em;
+    font-size: 24px;font-size: 3rem;
     padding: 20px;} 
 p {color: rgb(128, 0, 6);
   font-family:Optima, sans-serif;
   margin: 20px;
-   font-size: 20px;font-size: 3em;
+   font-size: 20px;font-size: 3rem;
   padding: 20px;}
 .center {
   display: block;
@@ -24,8 +24,7 @@ p {color: rgb(128, 0, 6);
   margin-right: auto;
   width: 50%;
 }
-body, html { font-size: 17px;
-    height: 100%;
+body, html {height: 100%;
 }
 
 /* The hero image */
