@@ -9,7 +9,7 @@ body {background-color: rgb(255, 210, 189);
 }
 h1 {color: rgb(255, 246, 229);
    text-align: right;
-   font-family:'Spacefont', sans-serif;
+   font-family:'Spacefont', format('truetype');
     font-size: 40px;font-size: 3em;
     text-shadow:
     1px 1px 2px black,
