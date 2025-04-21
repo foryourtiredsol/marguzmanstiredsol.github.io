@@ -9,8 +9,8 @@ h1 {color: rgb(255, 246, 229);
     font-size: 40px;font-size: 3em;
     text-shadow:
     1px 1px 2px black,
-    0 0 1em blue,
-    0 0 0.2em blue;
+    0 0 1em white,
+    0 0 0.2em light orange;
    margin: 3rem;
    padding: 30px;}
 h2 {color: rgb(59, 0, 0);
